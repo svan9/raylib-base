@@ -7,7 +7,7 @@ int main(void) {
 	while (!WindowShouldClose()) {
 		BeginDrawing();
 				ClearBackground(RAYWHITE);
-				DrawText("Congrats! You created your first window!", 190, 200, 20, LIGHTGRAY);
+				DrawText("YAYAYAYYAYAYAYY", 190, 200, 20, LIGHTGRAY);
 		EndDrawing();
 	}
 	CloseWindow();
